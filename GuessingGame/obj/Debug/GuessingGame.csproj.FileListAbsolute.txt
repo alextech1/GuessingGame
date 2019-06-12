@@ -1,0 +1,8 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\GuessingGame\Start\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\cashamerica12345\Documents\SoftwareGuild\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\cashamerica12345\Documents\SoftwareGuild\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\cashamerica12345\Documents\SoftwareGuild\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\cashamerica12345\Documents\SoftwareGuild\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojAssemblyReference.cache
+C:\Users\cashamerica12345\Documents\SoftwareGuild\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\cashamerica12345\Documents\SoftwareGuild\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\cashamerica12345\Documents\SoftwareGuild\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
